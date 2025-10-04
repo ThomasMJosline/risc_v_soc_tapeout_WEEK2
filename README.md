@@ -1,4 +1,4 @@
-# RISC-V SOC tapeout program : Week1
+# RISC-V SOC tapeout program : Week2
 
 # Introduction to BabySoC & Functional Modelling
 
