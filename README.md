@@ -66,3 +66,9 @@ The BabySoC is a mixed-signal chip that integrates the following three main IP (
  - Simulation & Debugging:
    - Generate Stimuli: Create comprehensive input test vectors.
    - Fast Simulation: Run the vectors through the model quickly to debug all algorithmic and logical flaws.
+  
+  ### 5.Lab:
+
+  #### 1. Presynthesis simulation
+
+  <div align="center"><img src="images/presynth_sim.png" alt="Alt Text" width="800"/></div>
